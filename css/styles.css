@@ -302,7 +302,12 @@ body {
 
 .team-link-list:hover,
 .team-link-list:focus,
-.team-link:focus {
+.team-link:focus,
+.team-link-list-icon:focus {
+  background-color: #404bbf;
+}
+
+.team-link-list:focus {
   background-color: #404bbf;
 }
 
@@ -439,7 +444,8 @@ body {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.team-link-list:hover {
+.team-link-list:hover,
+.team-link-list:focus {
   background-color: #404bbf;
 }
 .fotter-link-list-icon {
