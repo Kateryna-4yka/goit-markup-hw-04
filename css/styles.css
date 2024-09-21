@@ -416,7 +416,7 @@ body {
   color: #fff;
   margin-bottom: 16px;
 }
-.fotter-link:focus,
+.fotter-link-list:focus,
 .fotter-link-list:hover {
   background-color: #31d0aa;
 }
