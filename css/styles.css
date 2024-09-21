@@ -301,12 +301,6 @@ body {
 }
 
 .team-link-list:hover,
-.team-link-list:focus,
-.team-link:focus,
-.team-link-list-icon:focus {
-  background-color: #404bbf;
-}
-
 .team-link-list:focus {
   background-color: #404bbf;
 }
